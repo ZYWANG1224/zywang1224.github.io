@@ -119,6 +119,19 @@ const SITE = {
      - 排列順序就是這裡的順序                                       */
   works: [
 
+    /* ── 2026 ── */
+    {
+      title: "喜邁高",
+      year: 2026,
+      type: "形象廣告",
+      roles: "剪輯／調光／動畫",
+      categories: ["剪輯調光", "動畫特效"],
+      youtube: "https://youtu.be/LpFyRYJH1vk",
+      cover: "images/works/smaryall.jpg",
+      awards: [],
+      note: "",
+    },
+
     /* ── 2025 ── */
     {
       title: "載客途中",
